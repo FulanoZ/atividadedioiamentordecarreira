@@ -1,0 +1,150 @@
+Olá! Recebi suas informações.
+Vejo que você escolheu Product Manager em IA e tem 4 horas por semana para estudar. Perfeito!
+Como você está começando do zero e tem disponibilidade limitada, vou montar um plano realista e focado no essencial. Sua combinação de interesse em pessoas + dados é ideal para PM de IA!
+Vou montar agora seu plano completo personalizado...
+
+🧩 VISÃO DO DIA A DIA
+Como é o trabalho de um(a) Product Manager em IA:
+
+Conversar com usuários e stakeholders para entender problemas que a IA pode resolver
+Definir a visão e roadmap de produtos com componentes de IA/ML
+Trabalhar com cientistas de dados e engenheiros para definir o que é tecnicamente viável
+Analisar métricas de performance dos modelos e impacto no negócio
+Criar documentação técnica (PRDs) explicando como a IA deve se comportar
+Mediar decisões sobre trade-offs (precisão vs velocidade, custo vs qualidade)
+Apresentar resultados e estratégias para liderança e times
+
+
+🧠 MAPA DE SKILLS
+CORE SKILLS (essenciais):
+
+Fundamentos de IA/ML (o que são modelos, como funcionam, limitações)
+Product discovery e validação de problemas
+Análise de dados e métricas de produto
+Comunicação técnica (traduzir entre negócio e engenharia)
+Documentação de requisitos (PRDs, user stories)
+Ética e viés em IA
+
+NICE-TO-HAVE (complementares):
+
+Noções de Python para análise de dados
+UX para produtos de IA (design de interações com ML)
+Conhecimento de APIs e integrações
+Gestão de stakeholders complexos
+
+FERRAMENTAS E TECNOLOGIAS:
+
+LLMs (ChatGPT, Claude, Gemini) - uso e limitações
+Ferramentas de product management (Notion, Miro, Figma básico)
+Google Analytics / Mixpanel (análise de dados)
+Plataformas no-code de IA (para prototipagem)
+SQL básico para análise de dados
+
+
+📅 ROADMAP DE 90 DIAS
+ADAPTADO PARA: 4 horas/semana (ritmo consciente e sustentável)
+MÊS 1 - FUNDAMENTOS DE IA E PRODUCT
+SEMANA 1-2:
+
+Estudar o que é IA, ML e LLMs (conceitos básicos sem código)
+Explorar 3 produtos de IA no mercado e documentar como funcionam
+Ação prática: Criar conta e testar ChatGPT, Claude e outro produto de IA
+
+SEMANA 3-4:
+
+Aprender fundamentos de Product Management (discovery, roadmap, PRD)
+Ler sobre métricas de produto e KPIs
+Ação prática: Escrever mini-PRD de uma feature simples que você usa no dia a dia
+
+MÊS 2 - PRÁTICA E ANÁLISE
+SEMANA 5-6:
+
+Estudar ética, viés e limitações de IA (casos reais de falha)
+Aprender sobre avaliação de modelos (acurácia, precisão, recall - conceitual)
+Ação prática: Analisar 2 casos de produtos de IA que falharam e documentar os aprendizados
+
+SEMANA 7-8:
+
+Introdução a análise de dados (Excel/Google Sheets avançado)
+Entender como LLMs são treinados e melhorados (RLHF, fine-tuning)
+Ação prática: Criar dashboard simples com dados fictícios de uso de IA
+
+MÊS 3 - PORTFÓLIO E PREPARAÇÃO
+SEMANA 9-10:
+
+Desenvolver seu projeto de portfólio principal (veja abaixo)
+Começar presença online (LinkedIn otimizado para PM de IA)
+Ação prática: Publicar 2 posts sobre aprendizados em IA
+
+SEMANA 11-12:
+
+Estudar perguntas de entrevista para PM júnior
+Preparar storytelling da sua transição de carreira
+Ação prática: Mock interview com amigo ou gravação própria
+
+
+🚀 PROJETO DE PORTFÓLIO
+PROJETO: Case Study de Produto de IA
+O QUE FAZER:
+Escolha um problema real (pode ser da sua área atual) e crie uma proposta completa de produto de IA para resolvê-lo. Documente todo o processo como um PM faria.
+ENTREGÁVEIS:
+
+Documento de Discovery (qual problema, para quem, evidências)
+PRD Simplificado (o que o produto de IA faz, como funciona em alto nível)
+Análise de Viabilidade (tecnologias disponíveis, riscos, limitações da IA)
+Métricas de Sucesso (como medir se a IA está funcionando)
+Roadmap Visual (3-6 meses de evolução do produto)
+Apresentação Executiva (5-7 slides resumindo tudo)
+
+CRITÉRIOS DE ACEITAÇÃO:
+
+Demonstra entendimento realista de capacidades e limitações de IA
+Mostra pensamento centrado no usuário, não só na tecnologia
+Inclui considerações éticas e de viés
+Tem métricas quantificáveis e realistas
+Está apresentado de forma profissional e clara
+
+DICA: Use ferramentas gratuitas como Notion (documentação), Miro (roadmap visual) e Canva (apresentação). Escolha um problema que você conhece bem - isso vai facilitar muito!
+
+💬 ROTEIRO DE ENTREVISTAS
+PERGUNTA 1: "Como você explicaria o que é Machine Learning para alguém sem conhecimento técnico?"
+COMO RESPONDER:
+"Machine Learning é como ensinar um computador a aprender com exemplos, em vez de programar cada regra manualmente. Por exemplo, para ensinar um computador a identificar fotos de gatos, em vez de escrever todas as características de um gato, mostramos milhares de fotos e o computador aprende os padrões sozinho. Quanto mais exemplos, melhor ele fica."
+
+PERGUNTA 2: "Você está lançando um chatbot de IA. Quais métricas acompanharia?"
+COMO RESPONDER:
+"Eu dividiria em três camadas: 1) Métricas de uso - quantas conversas, taxa de retenção, 2) Métricas de qualidade - taxa de resolução sem escalar para humano, satisfação do usuário (CSAT), taxa de respostas corretas, e 3) Métricas de negócio - impacto em custos de suporte, conversão se aplicável. Também monitoraria casos de falha para melhorar continuamente o modelo."
+
+PERGUNTA 3: "Como você priorizaria features em um produto de IA com recursos limitados?"
+COMO RESPONDER:
+"Usaria um framework como RICE ou ICE, mas adaptado para IA. Consideraria: impacto no usuário, viabilidade técnica do modelo atual, custo computacional, e tempo de desenvolvimento. Em IA, também pesaria fatores únicos como disponibilidade de dados de treino e complexidade da avaliação. Sempre começaria com um MVP que valide a hipótese principal antes de adicionar complexidade."
+
+PERGUNTA 4: "Conte sobre um produto de IA que você admira e por quê."
+COMO RESPONDER:
+"Admiro o [escolha um - ex: Spotify Discover Weekly]. O que me impressiona é como equilibra personalização com descoberta - não só recomenda o que você já gosta, mas te expõe a novidades de forma inteligente. Do ponto de vista de produto, eles resolveram o cold start problem bem e têm métricas claras de sucesso. Também gosto que a IA é invisível - o usuário não pensa 'estou usando IA', apenas tem uma experiência melhor."
+
+PERGUNTA 5: "Como você lidaria com viés em um modelo de IA que seu time desenvolveu?"
+COMO RESPONDER:
+"Primeiro, reconheceria que viés é inevitável, mas gerenciável. Trabalharia com o time de dados para: 1) Auditar os dados de treino buscando sub-representação, 2) Definir métricas de fairness específicas do contexto, 3) Testar com grupos diversos de usuários, 4) Implementar monitoramento contínuo pós-lançamento. Também documentaria as limitações conhecidas e teria um plano de mitigação. Transparência com usuários sobre como a IA funciona também é essencial."
+
+🎓 TRILHA DIO RECOMENDADA
+TRILHA: "Fundamentos de IA Generativa" + "Bootcamp de Product Management"
+POR QUE ESSA TRILHA:
+A DIO tem conteúdos separados que, combinados, cobrem o que você precisa. A trilha de IA Generativa te dá base técnica sem precisar programar pesado, e os bootcamps de PM te ensinam frameworks de gestão de produto. Como PM de IA, você precisa dessa ponte entre tecnologia e negócio.
+PRÓXIMOS PASSOS:
+
+Acesse dio.me
+Busque por "IA Generativa" e "Product Management"
+Inscreva-se gratuitamente nos bootcamps disponíveis
+Dedique 2h/semana para a DIO e 2h/semana para seu projeto prático
+Participe dos fóruns - networking é essencial para transição de carreira
+
+
+✨ Seu plano está pronto!
+Lembre-se: com 4 horas por semana, a constância é seu maior ativo. É melhor estudar 1 hora por dia, 4 dias na semana, do que 4 horas de uma vez.
+Dicas extras para sua transição:
+
+🔄 Use sua experiência anterior como diferencial - PMs de IA vêm de áreas diversas
+💼 Conecte-se com PMs de IA no LinkedIn e peça informational interviews
+📝 Documente seu aprendizado publicamente (LinkedIn, Medium) - isso é networking + portfólio
+🎯 Em 90 dias você não será sênior, mas terá base para buscar vagas júnior ou estágios
